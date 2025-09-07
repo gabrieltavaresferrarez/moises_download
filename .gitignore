@@ -1,5 +1,6 @@
 # Ignorar arquivo de log
 LOGGER.log
+text_louveapp.txt
 
 # Ignorar todos os arquivos dentro da pasta yt_downloads
 yt_downloads/*
