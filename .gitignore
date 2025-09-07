@@ -1,0 +1,5 @@
+# Ignorar arquivo de log
+LOGGER.log
+
+# Ignorar todos os arquivos dentro da pasta yt_downloads
+yt_downloads/*
